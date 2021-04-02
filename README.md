@@ -21,7 +21,7 @@ The name could be `"Counter-Combust"`.
 
 12:17am Friday morning, the controls on computer could be to drag the mouse around, moving a branch. On mobile, the same but touching the screen.
 
-Could use this example, and modify it so it starts as contrailing smoke, but the longer you move the "hotter" it gets, and the smoke eventually turns to fire.
+Could [use this example](https://phaser.io/examples/v3/view/physics/matterjs/particles-follow-body), and modify it so it starts as contrailing smoke, but the longer you move the "hotter" it gets, and the smoke eventually turns to fire.
 
 Could show a bar at the top, that is the "igniation quota".
 
