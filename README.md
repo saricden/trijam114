@@ -18,3 +18,9 @@ If I go with rubbing sticks together to generate smoke, but not fire, I could pr
 The particle emitters could correspond to how much friction is being calculated between the two bodies. Or if I don't have access to that data, just go with how long they've been touching.
 
 The name could be `"Counter-Combust"`.
+
+12:17am Friday morning, the controls on computer could be to drag the mouse around, moving a branch. On mobile, the same but touching the screen.
+
+Could use this example, and modify it so it starts as contrailing smoke, but the longer you move the "hotter" it gets, and the smoke eventually turns to fire.
+
+Could show a bar at the top, that is the "igniation quota".
