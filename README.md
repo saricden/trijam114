@@ -24,3 +24,8 @@ The name could be `"Counter-Combust"`.
 Could use this example, and modify it so it starts as contrailing smoke, but the longer you move the "hotter" it gets, and the smoke eventually turns to fire.
 
 Could show a bar at the top, that is the "igniation quota".
+
+Smoke could accumulate on the screen, until it obstructs vision, including the bar.
+
+**TLDR:** Points go up as you rub, but if you rub too fast the course catches on fire and it's game over. The more points you get, the harder it is to see the screen. Try to get as many points as you can in 30 seconds.
+
